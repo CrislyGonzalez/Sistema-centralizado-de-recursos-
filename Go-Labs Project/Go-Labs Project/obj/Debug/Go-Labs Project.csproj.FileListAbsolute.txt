@@ -1,0 +1,38 @@
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.exe.config
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.exe
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.pdb
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.csprojResolveAssemblyReference.cache
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.MainForm.resources
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.Properties.Resources.resources
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.csproj.GenerateResource.Cache
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.exe
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.pdb
+C:\Users\LuisFernando\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.ContributorsForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.exe.config
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.exe
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.pdb
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.csprojResolveAssemblyReference.cache
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.ContributorsForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.MainForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.Properties.Resources.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.csproj.GenerateResource.Cache
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.exe
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.pdb
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.exe.config
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.exe
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.pdb
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.exe
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\bin\Debug\Go-Labs Project.pdb
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.csprojResolveAssemblyReference.cache
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.ContributorsForm.resources
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.MainForm.resources
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.Properties.Resources.resources
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go-Labs Project.csproj.GenerateResource.Cache
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.MembersForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.MembersForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.CostumersForm.resources
+D:\Usuarios\LPeréz\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.CostumersForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.ProjectsForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.VacationsForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.FinancesForm.resources
+C:\Users\Luis Pérez\Desktop\Go-Labs Project\Go-Labs Project\obj\Debug\Go_Labs_Project.InputTypeForm.resources
